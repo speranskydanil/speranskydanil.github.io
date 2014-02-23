@@ -16,7 +16,7 @@
 * [PyQt ImageViewer](http://speranskydanil.github.io/pyqt-imageviewer/)
 * [Simple JavaScript OOP Library](http://speranskydanil.github.io/Simple-JavaScript-OOP-Library/)
 
-*Author:*
+**Author:**
 [Personal Page](http://dsperansky.info) |
 [LinkedIn](http://ru.linkedin.com/in/speranskydanil/en) |
 [GitHub](https://github.com/speranskydanil?tab=repositories) |
