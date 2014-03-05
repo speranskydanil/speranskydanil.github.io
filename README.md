@@ -6,6 +6,7 @@
 * [Message Library](http://speranskydanil.github.io/message-library/)
 * [Book Scanner](http://speranskydanil.github.io/book_scanner/)
 * [Solr Tutorial](http://speranskydanil.github.io/solr-tutorial/)
+* [Nginx Configuration For Rails](http://speranskydanil.github.io/nginx-conf-for-rails/)
 * [Rotator JS](http://speranskydanil.github.io/rotator-js/)
 * [Simple Graffiti](http://speranskydanil.github.io/Simple-Graffiti/)
 * [Simple Audio Player](http://speranskydanil.github.io/Simple-Audio-Player/)
