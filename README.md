@@ -3,6 +3,7 @@
 * [Image Processor](http://speranskydanil.github.io/image-processor/)
 * [File Manager](http://speranskydanil.github.io/file-manager/)
 * [Ruby Event Framework](http://speranskydanil.github.io/ruby-event-framework/)
+* [Rails Deployment](http://speranskydanil.github.io/rails-deployment/)
 * [Message Library](http://speranskydanil.github.io/message-library/)
 * [Book Scanner](http://speranskydanil.github.io/book_scanner/)
 * [Solr Tutorial](http://speranskydanil.github.io/solr-tutorial/)
