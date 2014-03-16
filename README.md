@@ -3,6 +3,7 @@
 * [Image Processor](http://speranskydanil.github.io/image-processor/)
 * [File Manager](http://speranskydanil.github.io/file-manager/)
 * [Ruby Event Framework](http://speranskydanil.github.io/ruby-event-framework/)
+* [Web Scraper](http://speranskydanil.github.io/web_scraper/)
 * [Functional Ruby](http://speranskydanil.github.io/functional-ruby/)
 * [Rails Deployment](http://speranskydanil.github.io/rails-deployment/)
 * [Message Library](http://speranskydanil.github.io/message-library/)
