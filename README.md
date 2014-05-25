@@ -7,6 +7,7 @@
 * [Functional Ruby](http://speranskydanil.github.io/functional-ruby/)
 * [Rails Deployment](http://speranskydanil.github.io/rails-deployment/)
 * [Message Library](http://speranskydanil.github.io/message-library/)
+* [OpenLayers Example](http://speranskydanil.github.io/openlayers-example/)
 * [Book Scanner](http://speranskydanil.github.io/book_scanner/)
 * [Solr Tutorial](http://speranskydanil.github.io/solr-tutorial/)
 * [Nginx Configuration For Rails](http://speranskydanil.github.io/nginx-conf-for-rails/)
