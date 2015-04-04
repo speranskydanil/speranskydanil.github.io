@@ -1,4 +1,10 @@
-### Some Repositories
+### Info
+
+Developer and programmer. I have participated in several projects of medium size, I was involved in design, "gardening", algorithm development and optimization. I believe in the version control systems. I believe in project management systems and bug trackers. I believe in testing. In my spare time I read a lot and I'm interested in general questions of programming (design, security, optimization). I love to study new things.
+
+[dsperansky.info](http://dsperansky.info/)
+
+### My Repositories
 
 * [Docview](http://speranskydanil.github.io/docview/)
 * [Image Processor](http://speranskydanil.github.io/image-processor/)
