@@ -21,7 +21,7 @@ Developer and programmer. I have participated in several projects of medium size
 * [Nginx Configuration For Rails](http://speranskydanil.github.io/nginx-conf-for-rails/)
 * [GitHub Dashboard](http://speranskydanil.github.io/github-dashboard/)
 * [Rotator JS](http://speranskydanil.github.io/rotator-js/)
-* [Simple Graffiti](http://speranskydanil.github.io/Simple-Graffiti/)
+* [Graffiti JS](http://speranskydanil.github.io/graffiti-js/)
 * [Simple Audio Player](http://speranskydanil.github.io/Simple-Audio-Player/)
 * [Rails Template](http://speranskydanil.github.io/rails-template/)
 * [gPhoto2 Updater](http://speranskydanil.github.io/gphoto2-updater/)
