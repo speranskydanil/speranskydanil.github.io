@@ -23,6 +23,7 @@ Developer and programmer. I have participated in several projects of medium size
 * [Rotator JS](http://speranskydanil.github.io/rotator-js/)
 * [Graffiti JS](http://speranskydanil.github.io/graffiti-js/)
 * [Simple Audio Player](http://speranskydanil.github.io/Simple-Audio-Player/)
+* [Stock](http://speranskydanil.github.io/stock/)
 * [Rails Template](http://speranskydanil.github.io/rails-template/)
 * [gPhoto2 Updater](http://speranskydanil.github.io/gphoto2-updater/)
 * [gPhoto2](http://speranskydanil.github.io/gphoto2/)
