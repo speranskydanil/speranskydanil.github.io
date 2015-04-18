@@ -10,6 +10,7 @@ Developer and programmer. I have participated in several projects of medium size
 * [Image Processor](http://speranskydanil.github.io/image-processor/)
 * [File Manager](http://speranskydanil.github.io/file-manager/)
 * [Ruby Event Framework](http://speranskydanil.github.io/ruby-event-framework/)
+* [JSON API](http://speranskydanil.github.io/json-api/)
 * [JSON Translator](http://speranskydanil.github.io/json-translator/)
 * [Web Scraper](http://speranskydanil.github.io/web_scraper/)
 * [Functional Ruby](http://speranskydanil.github.io/functional-ruby/)
