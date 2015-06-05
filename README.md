@@ -7,6 +7,7 @@ Developer and programmer. I have participated in several projects of medium size
 ### My Repositories
 
 * [Docview](http://speranskydanil.github.io/docview/)
+* [ng-js (Angular JS micro version (for learning))](http://speranskydanil.github.io/ng-js/)
 * [Image Processor](http://speranskydanil.github.io/image-processor/)
 * [File Manager](http://speranskydanil.github.io/file-manager/)
 * [Ruby Event Framework](http://speranskydanil.github.io/ruby-event-framework/)
