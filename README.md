@@ -2,8 +2,6 @@
 
 I am an engineer and developer. I participated in many projects and was involved in design, development and "gardening". I'm focused on creating good products. In my spare time I read a lot and I'm interested in general questions of programming (design, development, optimization, security).
 
-[dsperansky.info](http://dsperansky.info/)
-
 ### My Repositories
 
 * [Docview](http://speranskydanil.github.io/docview/)
