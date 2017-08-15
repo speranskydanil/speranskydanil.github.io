@@ -1,0 +1,8 @@
+title: Speransky Danil
+description: on GitHub
+google_analytics: UA-48799405-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
